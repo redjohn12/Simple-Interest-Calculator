@@ -1,0 +1,22 @@
+body {
+    align:center;
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+h1{
+    color:grey;
+    font-family:verdana;
+}
+.maindiv{
+    background-color:black;
+    color:white;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    align:center;
+}
+
+#result{
+    font-weight:bold;
+}
